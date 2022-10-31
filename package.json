@@ -1,0 +1,23 @@
+{
+  "name": "weather_web_scrap",
+  "version": "1.0.0",
+  "description": "web scrap to get weather information",
+  "homepage": "https://github.com/afifudinmtop/weather_web_scrap",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "scrap"
+  ],
+  "author": "Afifudin Ma'arif",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afifudinmtop/weather_web_scrap.git"
+  }
+}
