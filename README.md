@@ -1,6 +1,6 @@
 # weather_web_scrap
 
-generate whatsapp api url from text
+web scarpe to get weather information
 
 ## Installation
 
